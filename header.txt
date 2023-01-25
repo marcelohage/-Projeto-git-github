@@ -1,2 +1,3 @@
 ola eu sou o header!
 eu sou, basicamente, o "cabeçalho" do seu site.
+Uma forma de deixar o seu código mais organizado e legível, caso tenha algum erro fica mais fácil de identificar. :)
